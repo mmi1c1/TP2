@@ -6,8 +6,13 @@
 
 #header
 {
+<<<<<<< HEAD
+	background: #fff;
+	padding: 20px;
+=======
 	background: #E3DBDE;
 	padding: 30px;
+>>>>>>> ca08db9d49d9d38fbc7392a64f11a35b7fcb9867
 }
 
 #header h1 { margin: 0; }
